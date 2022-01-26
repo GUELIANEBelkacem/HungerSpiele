@@ -1,0 +1,46 @@
+.App {
+  min-height: 100vh;
+  background-image: url("mk7.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.search-form {
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-bar {
+  width: 70%;
+  border: none;
+  padding: 10px;
+}
+
+.search-button {
+  background: rgb(19, 57, 180);
+  border: none;
+  padding: 10px 20px;
+  color: rgb(255, 255, 255);
+}
+
+.recipes {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.bar {
+  background-color: rgb(19, 57, 180);
+  color: white;
+  overflow: hidden;
+
+  bottom: 0px;
+  position: static;
+  flex-shrink: 0;
+  margin-bottom: 0%;
+  width: 100%;
+  text-align: center;
+}

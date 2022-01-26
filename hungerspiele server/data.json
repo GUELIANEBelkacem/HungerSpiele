@@ -1,0 +1,14 @@
+{
+ "userlist": [
+  {
+   "username": "schoko",
+   "password": "panda",
+   "inventory": [
+    {
+     "name": "beef",
+     "inventory": []
+    }
+   ]
+  }
+ ]
+}
