@@ -1,5 +1,9 @@
 # HungerSpiele
 
+**A website model for all your cooking recipe needs! used by Chimlin's star chefs such as Rordon Gamsay and Dlain Aucasse, hey it even calculates an estimated price for the recipes!**
+
+It uses the Spoonacular API (Thanks Thanks much obliged) 
+
 ***requirments***
 
 
